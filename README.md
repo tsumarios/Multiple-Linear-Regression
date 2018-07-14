@@ -6,7 +6,7 @@ Scientific  report  about  multiple  linear  regression  with  Java  code  (take
 
 Original code is avaible [here], including all its rights.
 
-### Please read documentation (italian) at [doc]
+### Please read documentation (italian) at [docs]
 
 ### Tech
 
@@ -20,6 +20,6 @@ MultipleLinearRegression uses [JAMA], a basic linear algebra package for Java.
  - Twitter: twitter.com/mraciti_dev
 
 
-   [doc]: <https://github.com/zMrDevJ/MultipleLinearRegression/blob/master/docs/REGRESSIONE%20LINEARE%20MULTIPLA.pdf>
+   [docs]: <https://github.com/zMrDevJ/MultipleLinearRegression/blob/master/docs/REGRESSIONE%20LINEARE%20MULTIPLA.pdf>
    [JAMA]: <https://math.nist.gov/javanumerics/jama/>
    [here]: <https://introcs.cs.princeton.edu/java/97data/MultipleLinearRegression.java.html>
