@@ -1,6 +1,6 @@
 # MultipleLinearRegression
 
-Scientific  report  about  multiple  linear  regression  with  Java  code  (taken  from  "Computer  Science:  An  Interdisciplinary  Approach"  textbook  with  some  my  changes). Project is aimed to a statistic project relation at Univesity of Catania, Italy.
+Scientific  report  about  multiple  linear  regression  with  Java  code  (taken  from  "Computer  Science:  An  Interdisciplinary  Approach"  textbook  with  some  my  changes) and statistic analysis on Excel. Project is aimed to a statistic project relation at Univesity of Catania, Italy.
 
 ##### Note
 
