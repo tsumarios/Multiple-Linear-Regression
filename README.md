@@ -1,6 +1,6 @@
 # MultipleLinearRegression
 
-Scientific  paper  about  multiple  linear  regression  with  Java  code  (taken  from  "Computer  Science:  An  Interdisciplinary  Approach"  textbook  with  some  my  changes) and statistic analysis on Excel. Project is aimed to a statistic project relation at Univesity of Catania, Italy.
+Scientific  paper  about  multiple  linear  regression  with  Java  code  (taken  from  "Computer  Science:  An  Interdisciplinary  Approach"  textbook  with  some  my  changes) and statistic analysis on Excel. The project is aimed to a statistic project relation at Univesity of Catania, Italy.
 
 ##### Note
 
