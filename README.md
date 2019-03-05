@@ -17,7 +17,7 @@ MultipleLinearRegression uses [JAMA], a basic linear algebra package for Java.
  - Email: mraciti96@gmail.com
  - LinkedIn: linkedin.com/in/marioraciti
  - Facebook: facebook.com/MarioRacitiDev
- - Twitter: twitter.com/mraciti_dev
+ - Twitter: twitter.com/zMrDevJ
 
 
    [docs]: <https://github.com/zMrDevJ/MultipleLinearRegression/blob/master/docs/REGRESSIONE%20LINEARE%20MULTIPLA.pdf>
